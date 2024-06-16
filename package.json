@@ -1,0 +1,14 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "A calculator for mean, nedian and mode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moshe Swed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
