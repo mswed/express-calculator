@@ -35,12 +35,6 @@ function mode(arr) {
     }))
 }
 
-function makeArr(str) {
-    let arr = str.split(',');
-    console.log(arr)
-    return arr.map((n) => {
-        return Number(n)
-    })
-}
 
-module.exports = {mode, mean, median, makeArr}
+
+module.exports = {mode, mean, median}
